@@ -7,6 +7,7 @@ import logoOverlay from "./images/icon-view.svg"
 function App() {
   return (
     <>
+    <main>
       <section className="w-96 p-5 bg-blue-400 rounded-xl shadow-2xl shadow-black wrapper">
         <div className="relative">
           <img src={logo} alt="equilibrium" className="block rounded-xl mb-5 nftImage" />
@@ -35,6 +36,7 @@ function App() {
         Challenge by <a href="https://www.frontendmentor.io?ref=challenge">Frontend Mentor</a>. 
         Coded by <a href="https://github.com/snowsneakers">Patrick Snowden</a>.
       </footer>
+    </main>
     </>
   );
 }
