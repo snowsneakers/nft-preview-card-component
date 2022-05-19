@@ -1,7 +1,7 @@
 # NFT Preview Card Component
 This is a solution to the <a href="https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-2syBOclQM">NFT Preview Card Component Frontend Mentor challenge</a>.
 
-[Click here]() to see the solution.
+[Click here](https://nftchallengefem.netlify.app/) to see the solution.
 
 <img src="./src/images/nftchallenge.png" alt="app demo image" width="100%"/>
 
