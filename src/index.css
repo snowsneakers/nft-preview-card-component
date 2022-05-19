@@ -18,7 +18,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  font-size: 18px;
+  font-size: 1.125rem;
   background: var(--body);
   font-family: "Outfit", sans-serif;
 }
@@ -66,10 +66,6 @@ span:hover {
 .attribution { 
   font-size: 11px; text-align: center; 
   color: white;
-  position: absolute;
-  bottom: 2rem;
-  left: 50%;
-  transform: translate(-50%);
 }
 .attribution a { 
   color: var(--cyan); 
